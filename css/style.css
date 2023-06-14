@@ -38,6 +38,7 @@ body {
     margin: 10px;
     width: calc(100% / 8);
     font-weight: 900;
+    border: none;
 }
 
 .bgblue {
@@ -53,4 +54,8 @@ body {
 }
 .bglightblue {
     background-color: lightblue;
+}
+
+.bgwhite {
+    background-color: white;
 }
